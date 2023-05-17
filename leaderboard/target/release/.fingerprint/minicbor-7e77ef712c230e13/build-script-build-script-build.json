@@ -1,0 +1,1 @@
+{"rustc":4041371938568725036,"features":"[\"alloc\", \"std\"]","target":427768481117760528,"profile":1221620420682647062,"path":3944892826876034938,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/minicbor-7e77ef712c230e13/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":721182043340130912,"config":2202906307356721367,"compile_kind":0}
